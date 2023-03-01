@@ -12,7 +12,7 @@ I am currently in the learning process of learning cybersecurity.
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Eyuga)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Eyuga)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Eyug_a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCwM-ajL5vqX5RDzUT3YioLw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/Eyug_A)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Eyuga)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Eyug_a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UChIwqGt4-3YvJ594_cXi_UQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/Eyug_A)  
 
 
 ![Profile views](https://gpvc.arturio.dev/Eyuga)  
