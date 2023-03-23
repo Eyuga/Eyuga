@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, My name is Eyuga
+### Hi there 👋, My name is Ishant
 #### I am a student
 
 - 🌱 I’m currently learning computer science and Cybersecurity 
