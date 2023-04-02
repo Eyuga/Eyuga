@@ -1,9 +1,9 @@
 
 
 ### Hi there 👋, My name is Eyuga
-#### I am a student
+#### I'm a student who is learning programming and I use Vim btw :)
 
-- 🌱 I’m currently learning computer science and Cybersecurity 
+- 🌱 I’m currently working on my [dotfiles](https://github.com/Eyuga/dotfiles)
 
 ![Eyuga GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyuga&show_icons=true&theme=radical)
 
